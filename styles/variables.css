@@ -1,1 +1,11 @@
-/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root .theme-light {
+  --font-main: "Inter-Variable", sans-serif;
+  --font-accent: "Press Start 2P", sans-serif, fantasy;
+  --font-weight-main: 700;
+  --font-weight-main-text: 400;
+  --bg-color: #fff;
+  --accent-color: #000;
+  --bg-image: url(../svg/pattern-light.svg);
+  --heart-contour-color: #000;
+  --heart-fill-color: #ff0000;
+}
