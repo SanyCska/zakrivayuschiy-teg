@@ -1,11 +1,11 @@
-:root .theme-light {
+:root {
   --font-main: "Inter-Variable", sans-serif;
-  --font-accent: "Press Start 2P", sans-serif, fantasy;
-  --font-weight-main: 700;
-  --font-weight-main-text: 400;
-  --bg-color: #fff;
-  --accent-color: #000;
-  --bg-image: url(../svg/pattern-light.svg);
-  --heart-contour-color: #000;
+  --font-accent: "Press Start 2P", fantasy;
+  --font-weight-main: 785;
+  --font-weight-main-text: 465;
+  --bg-color: #000;
+  --accent-color: #00cc14;
+  --bg-image: url(../svg/pattern-dark.svg);
+  --heart-contour-color: #00cc14;
   --heart-fill-color: #ff0000;
 }
